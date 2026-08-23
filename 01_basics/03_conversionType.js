@@ -24,3 +24,29 @@ let stringNum = String(someNumber);
 console.log(stringNum);
 console.log(typeof stringNum);
 
+
+
+
+//*******************  OPERATIONS   *********************
+let val=3
+let negval=-val
+console.log(negval)
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2**2)
+// console.log(2/3)
+// console.log(2%3)
+
+console.log("1"+2)
+console.log(1+"2")
+console.log("1"+2+2)//122
+console.log(2+2+"3")
+console.log(`1${2+2}`)//14
+
+
+console.log(true)//output is true
+console.log(+true);//output is 1
+console.log(+"")
+
