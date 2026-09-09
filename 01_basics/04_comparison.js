@@ -13,5 +13,6 @@
 //===
 console.log("2"==2)//true
 console.log("2"===2)//true checks datatypes also
+console.log("2"==3)
 
 
