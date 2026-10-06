@@ -9,7 +9,7 @@
 
 // console.log(undefined>=0)
 
-
+let name; 
 //===
 console.log("2"==2)//true
 console.log("2"===2)//true checks datatypes also
