@@ -33,11 +33,13 @@ console.log(name.toUpperCase());
 console.log(name.substring(0,2));//takes the element from last
 
 
+
 //split method
 console.log(name.split(''));
 
 
 const n='coco, melon, happy, dress';
+
 
 console.log(name.split(n.split(',')));
 
