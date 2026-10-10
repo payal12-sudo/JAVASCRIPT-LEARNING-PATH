@@ -25,3 +25,5 @@ switch(color){
     console.log('color is not red nd blue');
     
 }
+
+this is how it is imprtanat to kniw this all js features
